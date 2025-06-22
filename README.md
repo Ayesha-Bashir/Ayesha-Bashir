@@ -1,13 +1,14 @@
 <p align="center">
-  <h1>Hi there 👋 I am Ayesha Bashir</h1>
-  <h2>I'm a Developer & Computer Scientist</h2>
+  <h1>                             Hi there 👋 I am Ayesha Bashir</h1>
+  <h2>                          I'm a Developer & Computer Scientist</h2>
 </p>
 
 ---
 
+
 _🙋‍♀️ About Me_
 
-- 🥋 I'm a very passionate programming and problem-solving enthusiast. I'm always ready to learn new things with effective ideas. Hardcore DSA enthusiast ❤️  
+- 🥋 I'm a very passionate programming and problem-solving enthusiast. I'm always ready to learn new things with effective ideas.  
 - 👨‍💻 Love to learn new technologies and explore new areas  
 - 👁‍🗨 Open Source Contributor  
 - 🚀 Passionate about crafting efficient code  
