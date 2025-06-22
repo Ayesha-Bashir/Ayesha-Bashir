@@ -1,5 +1,5 @@
-                                                                  #Hi there 👋 I am Ayesha Bashir
-                                                                #I'm a developer & Computer Scientist
+                                                                  # Hi there 👋 I am Ayesha Bashir
+                                                                # I'm a developer & Computer Scientist
                                                                 
 _🙋‍♂️ About Me_
 
