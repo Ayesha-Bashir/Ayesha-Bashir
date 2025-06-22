@@ -1,5 +1,7 @@
-  # Hi there 👋 I am Ayesha Bashir
-  # I'm a developer & Computer Scientist
+<p align="center">
+  <h1>Hi there 👋 I am Ayesha Bashir</h1>
+  <h2>I'm a Developer & Computer Scientist</h2>
+</p>
 
                                                                 
 _🙋‍♂️ About Me_
