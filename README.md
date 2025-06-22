@@ -1,5 +1,6 @@
-👋 Hi, I’m @Ayesha-Bashir
-
+                                                                   **Hi there 👋 I am Ayesha Bashir**
+                                                                **I'm a developer & Computer Scientist**
+                                                                
 🙋‍♂️ About Me
 
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️
